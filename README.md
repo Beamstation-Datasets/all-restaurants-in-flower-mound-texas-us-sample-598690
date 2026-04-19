@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 78 records |
 | Free sample size | 7 records (8.97%) |
-| Last export | 2026-04-09T09:19:00.076883+00:00 |
+| Last export | 2026-04-16T09:13:04.950448+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-flower-mound-texas-us-sample-598690/releases/download/sample-latest/beamstation_598690_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
