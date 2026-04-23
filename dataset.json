@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Detailed restaurant dataset for Flower Mound, Texas. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Flower Mound, Texas, US",
-  "export_job_id": "3e283533-c60d-45b7-bbd1-70292431d53f",
+  "export_job_id": "674a8844-164e-40e9-ac9c-7a5cf75cfd16",
   "github_org": "Beamstation-Datasets",
   "id_short": 598690,
   "location_name": "Flower Mound",
   "location_type": "city",
   "repo_name": "all-restaurants-in-flower-mound-texas-us-sample-598690",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/598690/beamstation_598690_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 8.97,
+  "sample_pct": 9.33,
   "sample_records": 7,
-  "sample_sha256": "396dd6d77c0000b738579450ed41f74782090f17fc4e874784aa204b0fae6684",
-  "sample_size_bytes": 31124,
-  "total_records": 78,
-  "updated_at": "2026-04-16T09:13:04.950448+00:00"
+  "sample_sha256": "a2c4f8387873ef64c7b5be3454539b56e2d308222034410700451e8e71ca45fb",
+  "sample_size_bytes": 36415,
+  "total_records": 75,
+  "updated_at": "2026-04-23T09:13:45.788845+00:00"
 }
