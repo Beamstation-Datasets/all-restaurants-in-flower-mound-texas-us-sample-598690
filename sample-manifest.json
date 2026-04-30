@@ -1,12 +1,12 @@
 {
-  "export_job_id": "674a8844-164e-40e9-ac9c-7a5cf75cfd16",
+  "export_job_id": "d8b53334-6f36-418e-9959-9e960ff37ed5",
   "id_short": 598690,
-  "published_at": "2026-04-23T19:23:22Z",
+  "published_at": "2026-04-30T19:24:01Z",
   "repo_name": "all-restaurants-in-flower-mound-texas-us-sample-598690",
   "sample_asset_name": "beamstation_598690_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/598690/beamstation_598690_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "a2c4f8387873ef64c7b5be3454539b56e2d308222034410700451e8e71ca45fb",
-  "sample_size_bytes": 36415,
-  "total_records": 75
+  "sample_records": 9,
+  "sample_sha256": "a5426153686fa0b53361a7f62da30544c18272015c32194f8844f32afddc8656",
+  "sample_size_bytes": 51373,
+  "total_records": 94
 }
